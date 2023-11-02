@@ -10670,28 +10670,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jaiso\\.nuget\\packages\\": {}
+    "/home/sorrymint/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jaiso\\RiderProjects\\CIS169Project5Starter\\CourseCatalog.csproj",
+      "projectUniqueName": "/home/sorrymint/Documents/IHCC/2023FALL/C#/Project 5/Project 5/Project 5 Solution/CourseCatalog/CourseCatalog.csproj",
       "projectName": "CourseCatalog",
-      "projectPath": "C:\\Users\\Jaiso\\RiderProjects\\CIS169Project5Starter\\CourseCatalog.csproj",
-      "packagesPath": "C:\\Users\\Jaiso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jaiso\\RiderProjects\\CIS169Project5Starter\\obj\\",
+      "projectPath": "/home/sorrymint/Documents/IHCC/2023FALL/C#/Project 5/Project 5/Project 5 Solution/CourseCatalog/CourseCatalog.csproj",
+      "packagesPath": "/home/sorrymint/.nuget/packages/",
+      "outputPath": "/home/sorrymint/Documents/IHCC/2023FALL/C#/Project 5/Project 5/Project 5 Solution/CourseCatalog/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jaiso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\MicroFocus.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/sorrymint/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Micro Focus\\Visual COBOL\\NuGetPackages": {},
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10744,7 +10740,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
       }
     }
   }
